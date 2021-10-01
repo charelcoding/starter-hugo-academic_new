@@ -15,7 +15,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a medical student from Luxembourg studying in Düsseldorf, Germany. I am currently in 5th year of my studies, shortly before entering the practical year(PJ) in May 2022.
-I took a semester off in summer 2021 to do research and write my doctoral thesis. I chose for topic neurology, because the brain is simply fascinating. In parallel, I started to teach myself coding in Python. I used this knowledge to implement a new machine learning algorithm to analyse histological images, made on confocal microscopy. I managed to quantify microglial cells in retina tissue of the so-called ERE mice, an experimental model for multiple sclerosis. I am planning to publish my results by the end of November.
+
 
 # Interests to show in About widget
 interests:
@@ -72,8 +72,7 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I took a semester off in summer 2021 to do research and write my doctoral thesis. I chose for topic neurology, because the brain is simply fascinating. In parallel, I started to teach myself coding in Python. I used this knowledge to implement a new machine learning algorithm to analyse histological images, made on confocal microscopy. I managed to quantify microglial cells in retina tissue of the so-called ERE mice, an experimental model for multiple sclerosis. I am planning to publish my results by the end of November.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
